@@ -1,0 +1,6 @@
+{
+  "name": "eBay Dropshipping Hunter AI",
+  "description": "Automated AI product hunting agent that discovers 25%+ ROI trending leads from Amazon, SHEIN, and AliExpress for eBay dropshipping with Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
